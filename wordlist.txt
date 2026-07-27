@@ -1,0 +1,7 @@
+cyber
+phishing
+secret
+redteam
+pentester
+root
+hash
